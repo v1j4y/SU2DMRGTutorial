@@ -1,12 +1,14 @@
-* SU2 DMRG Tutorial
+ SU2 DMRG Tutorial
 =====================
 
-** Introduction
+Introduction
+-------------------
 
 The SU2 DMRG code can be used for spin models with
 mainly linear or two-dimensional topologies.
 
-** Examples
+Examples
+-------------------
 
 The notebook presents sample code presenting
 the usage of the SU2 DMRG code and its comparison
